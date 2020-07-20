@@ -7,7 +7,7 @@ ruby '2.2.2'
 
 ## If you add a new Gem below, run `bundle install` to install it.
 group :development do
-  gem 'github-pages'
+  gem 'github-pages', '>= 203'
 end
 
 group :testing do
